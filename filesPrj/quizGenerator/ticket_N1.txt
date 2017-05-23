@@ -1,0 +1,6 @@
+1. Choice capital of the country USA:
+ A. Vashington
+ B. Moscow
+ C. Tokio
+ D. London
+
